@@ -1,0 +1,16 @@
+.Pokedex-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+
+.Pokedex-winner {
+    color: green;
+    font-weight: 500;
+}
+
+.Pokedex-loser {
+    color: crimson;
+    font-weight: 500;
+}
